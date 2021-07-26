@@ -1,0 +1,21 @@
+.sidebar {
+  background: -webkit-linear-gradient(270deg, #09009f, #317f9a 80%);
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+  width: 200px;
+  font-size: 18px;
+}
+
+.sidebar .menuitem {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  text-decoration: none;
+  color: #fff;
+}
+
+.sidebar .menuitem .icon {
+  margin-right: 4px;
+  min-width: 20px;
+}
+
