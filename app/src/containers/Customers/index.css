@@ -1,6 +1,7 @@
 .customers-navbar {
 	height: 100px;
-	background-color: #09009f;
+	background-color: #db005c;
+  /*background-color: #09009f;*/
 	display: flex;
 	flex-direction: row;
 	justify-content: space-between;
@@ -61,8 +62,8 @@
   cursor: pointer;
   outline: none;
   color: #fff;
-  background-color: #80a3ff;
-  border: 1px solid #8aa2e3;
+  background-color: #db005c;
+  border: 1px solid #db005c;
   border-radius: 2px;
   box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
 }

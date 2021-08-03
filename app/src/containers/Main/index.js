@@ -20,6 +20,7 @@ const Main = () => {
         </NavLink>
         <button className="btn"> Reports </button>
         <button className="btn"> Inventory </button>
+        <button className="btn"> Inventory </button>
       </div>
     </StyledWrapper>
 	)

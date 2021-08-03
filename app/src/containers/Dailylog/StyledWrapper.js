@@ -31,8 +31,8 @@ const StyledWrapper = styled.div`
   }
 
   .btn-selected {
-    background: #8770fe;
-    border: 1px solid #8e7cea;
+    background: #db005c;
+    border: 1px solid #db005c;
   }
 
   .btn-option {
@@ -112,7 +112,7 @@ const StyledWrapper = styled.div`
   }
 
   .react-datepicker__day--selected {
-    background-color: cornflowerblue;
+    background-color: #db005c;
   }
 `;
 

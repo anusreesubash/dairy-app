@@ -4,7 +4,8 @@ const StyledWrapper = styled.div`
   .header {
     text-align: center;
     // background: -webkit-linear-gradient(45deg, #09009f 20%, #00ff95);
-    background: -webkit-linear-gradient(0deg, #80a3ff 40%, #8770fe);
+    // background: -webkit-linear-gradient(0deg, #80a3ff 40%, #8770fe);
+    background: #db005c;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     border-bottom: 1px solid silver;
@@ -30,7 +31,7 @@ const StyledWrapper = styled.div`
     outline: none;
     color: #fff;
     // background: -webkit-linear-gradient(0deg, #8770fe 60%, #80a3ff);
-    background-color: #8770fe;
+    background-color: #db005c;
     border: none;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
   }
